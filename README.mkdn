@@ -1,7 +1,5 @@
 # jQuery Wiggle Plugin
 
-DEMO: http://area51.thedrunkenepic.com/wiggle/
-
 This plugin allows you to emulate the wiggle effect icons on an i(Phone|Pad|Pod Touch) have when you press and hold down on them. This is a ridiculously simple plugin with only a handful of configuration options.
 
 ## Enable Wiggle
